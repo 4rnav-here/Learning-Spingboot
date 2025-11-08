@@ -73,21 +73,3 @@ This repo once leaked an Aiven password...
 Now it’s *the poster child for secure Spring Boot setups* 😎
 
 ---
-
-## 👨‍💻 Author
-
-**Arnav Trivedi**
-🎓 Vellore Institute of Technology
-💡 Exploring Full Stack, AI/ML & Cloud
-🌐 [GitHub](https://github.com/4rnav-here)
-
----
-
-⭐ *Star this repo if you love clean code and caffeine-powered learning!*
-
-```
-
----
-
-Would you like me to add a **badge header** (like Spring Boot 🌱 | MySQL 🐬 | Java ☕) to give it a sleek “open-source project” vibe? It looks great on GitHub repo pages.
-```
